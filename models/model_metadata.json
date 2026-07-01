@@ -1,0 +1,22 @@
+{
+  "best_model_name": "LinearSVC",
+  "selection_metric": "negative_recall",
+  "tie_breaker": "macro_f1",
+  "text_column": "clean_message",
+  "target_column": "sentiment_label",
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "vectorizer": {
+    "type": "TfidfVectorizer",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "max_features": 5000,
+    "min_df": 2,
+    "max_df": 0.95
+  }
+}

@@ -1,0 +1,136 @@
+feedback_id,date,channel,customer_segment,plan_type,language,product_area,priority,rating,resolved,response_time_hours,message
+FB-00575,2025-05-10,email,freelancer,free,es,account_access,critical,1,False,164.2,"Un acceso no autorizado a nuestro workspace no fue detectado a tiempo. Como freelancer, esto afecta mucho mi flujo de trabajo."
+FB-00153,2025-09-23,chat,freelancer,basic,en,account_access,critical,1,False,162.8,Admin accounts lost permissions after the last security update.
+FB-00010,2025-11-25,email,freelancer,pro,en,billing,critical,1,False,162.5,"The invoice total doesn't match what I agreed to at checkout. As a freelancer, this matters a lot to my workflow."
+FB-00812,2025-11-29,email,freelancer,free,en,performance,critical,1,False,159.3,The app crashes constantly when loading large reports.
+FB-00902,2025-05-31,email,startup,enterprise,en,features,critical,1,False,157.4,Key features advertised on the website simply don't exist yet. We're scaling fast and need this resolved quickly.
+FB-00444,2025-10-12,chat,startup,pro,en,billing,critical,2,False,154.6,I was charged twice this month and support hasn't responded. We're scaling fast and need this resolved quickly.
+FB-00555,2025-04-20,support_ticket,agency,enterprise,en,integrations,critical,2,False,150.3,We can't connect our internal tools because OAuth keeps failing. We manage several client accounts and this is blocking delivery.
+FB-00042,2025-09-02,email,agency,enterprise,es,billing,critical,1,False,148.3,"Me cobraron dos veces este mes y el soporte no ha respondido. Como clientes enterprise, esperamos atención prioritaria."
+FB-00815,2025-01-08,chat,enterprise,free,en,billing,critical,1,False,146.4,I was charged twice this month and support hasn't responded. This affects multiple departments across our organization.
+FB-00597,2025-09-07,chat,startup,free,es,account_access,critical,2,False,146.0,Un acceso no autorizado a nuestro workspace no fue detectado a tiempo.
+FB-00209,2025-11-09,contact_form,startup,enterprise,en,integrations,critical,2,False,145.6,"We can't connect our internal tools because OAuth keeps failing. As enterprise customers, we expect priority handling."
+FB-00313,2025-01-03,chat,small_business,enterprise,en,account_access,critical,2,False,141.7,Our entire team was locked out for two days with no explanation.
+FB-00083,2025-07-22,contact_form,startup,free,es,onboarding,critical,1,False,137.9,Nos dejaron solos tras el registro sin pasos claros a seguir. Estamos creciendo rápido y necesitamos una solución pronto.
+FB-00363,2025-05-13,chat,enterprise,free,en,account_access,critical,2,False,132.1,Our entire team was locked out for two days with no explanation. This affects multiple departments across our organization.
+FB-00043,2025-04-23,email,small_business,enterprise,es,integrations,critical,1,False,129.5,Las entregas por webhook fallan al azar y perdemos eventos críticos. Nuestro equipo pequeño depende de que esto funcione bien.
+FB-00172,2025-05-04,contact_form,enterprise,free,en,billing,critical,2,False,128.6,My subscription renewed without warning and I can't get a refund. This affects multiple departments across our organization.
+FB-00357,2025-11-04,chat,small_business,enterprise,es,billing,critical,1,False,121.1,Nos han cobrado de más en el plan enterprise durante tres meses. Nuestro equipo pequeño depende de que esto funcione bien.
+FB-00544,2025-05-31,support_ticket,enterprise,basic,es,integrations,critical,1,False,113.6,"No podemos conectar nuestras herramientas internas porque OAuth falla constantemente. Con el plan básico, esperábamos un soporte más ágil."
+FB-00218,2025-05-08,review,small_business,basic,en,onboarding,critical,2,False,106.7,Onboarding documentation is outdated and contradicts the actual UI.
+FB-00296,2025-01-25,email,freelancer,free,es,account_access,critical,1,False,104.9,"Todo el equipo quedó bloqueado dos días sin explicación. Como freelancer, esto afecta mucho mi flujo de trabajo."
+FB-00996,2025-05-06,chat,startup,basic,en,performance,critical,2,False,96.8,"Our team loses hours every week waiting for pages to load. Given our basic plan, we hoped for smoother support."
+FB-00402,2025-07-31,nps_survey,startup,pro,es,integrations,critical,1,False,93.0,No podemos conectar nuestras herramientas internas porque OAuth falla constantemente. Pasamos al plan Pro justamente por un mejor servicio.
+FB-00324,2025-04-05,email,startup,basic,en,performance,critical,1,False,89.9,"The app crashes constantly when loading large reports. Given our basic plan, we hoped for smoother support."
+FB-00833,2025-03-09,support_ticket,enterprise,pro,en,account_access,critical,1,False,88.5,Unauthorized access to our workspace was not detected promptly. This affects multiple departments across our organization.
+FB-00462,2025-05-25,email,startup,free,en,billing,critical,2,False,86.2,I was charged twice this month and support hasn't responded. We're scaling fast and need this resolved quickly.
+FB-00227,2025-02-21,review,small_business,free,en,account_access,critical,1,False,85.7,Admin accounts lost permissions after the last security update.
+FB-00853,2025-12-14,contact_form,small_business,pro,es,exports,critical,1,False,85.1,No podemos exportar datos históricos más allá de 30 días en nuestro plan.
+FB-00814,2025-01-04,chat,enterprise,enterprise,en,features,critical,1,False,84.9,We can't use half the features because they're buggy.
+FB-00523,2025-04-06,email,small_business,basic,en,account_access,critical,1,False,84.2,Unauthorized access to our workspace was not detected promptly. Our small team depends on this working reliably.
+FB-00179,2025-12-23,review,enterprise,basic,es,performance,critical,1,False,82.0,Hemos tenido timeouts severos durante operaciones críticas. Esto impacta a varios departamentos de nuestra organización.
+FB-00895,2025-03-25,email,agency,pro,es,account_access,critical,1,False,81.7,Un acceso no autorizado a nuestro workspace no fue detectado a tiempo.
+FB-00952,2025-01-18,nps_survey,agency,pro,en,integrations,critical,2,False,80.9,Webhook deliveries fail randomly and we lose critical events.
+FB-00999,2025-12-03,email,startup,enterprise,es,performance,critical,1,False,79.7,El rendimiento empeoró notablemente tras la última actualización. Estamos creciendo rápido y necesitamos una solución pronto.
+FB-00896,2025-06-22,contact_form,agency,pro,es,performance,critical,1,False,78.1,Perdemos horas cada semana esperando que carguen las páginas. Gestionamos varias cuentas de clientes y esto nos está frenando.
+FB-00514,2025-04-04,chat,agency,pro,en,account_access,critical,2,False,76.5,Admin accounts lost permissions after the last security update.
+FB-00393,2025-05-09,chat,startup,basic,en,billing,critical,1,False,70.8,I was charged twice this month and support hasn't responded.
+FB-00044,2025-07-21,chat,agency,free,en,exports,critical,1,False,69.8,Exported files are missing critical columns we need for compliance. We manage several client accounts and this is blocking delivery.
+FB-00928,2025-06-30,support_ticket,freelancer,pro,es,billing,critical,1,False,66.8,Me cobraron dos veces este mes y el soporte no ha respondido.
+FB-00017,2025-07-26,chat,freelancer,free,en,billing,critical,1,False,64.8,The invoice total doesn't match what I agreed to at checkout. We're on the free plan but still expect basic reliability.
+FB-00112,2025-10-26,contact_form,startup,free,en,account_access,critical,2,False,63.5,Admin accounts lost permissions after the last security update. We're on the free plan but still expect basic reliability.
+FB-00641,2025-11-25,email,freelancer,enterprise,es,integrations,critical,2,False,62.6,"Nuestra integración con el CRM se rompió tras el último release y los datos están desincronizados. Como clientes enterprise, esperamos atención prioritaria."
+FB-00989,2025-05-01,chat,startup,enterprise,en,billing,critical,2,False,59.6,"We've been overcharged on our enterprise plan for three months. As enterprise customers, we expect priority handling."
+FB-00800,2025-03-21,email,small_business,free,es,billing,critical,1,False,56.8,Me cobraron dos veces este mes y el soporte no ha respondido. Nuestro equipo pequeño depende de que esto funcione bien.
+FB-00061,2025-08-06,contact_form,startup,basic,es,performance,critical,2,False,56.6,La aplicación se cae constantemente al cargar reportes grandes.
+FB-00609,2025-02-13,support_ticket,agency,free,es,billing,critical,2,False,55.4,El total de la factura no coincide con lo acordado al pagar. Gestionamos varias cuentas de clientes y esto nos está frenando.
+FB-00767,2025-12-28,support_ticket,startup,free,en,account_access,critical,2,False,54.9,I can't reset my password and support hasn't helped in days.
+FB-00187,2025-08-11,email,freelancer,enterprise,en,billing,critical,1,False,53.1,The invoice total doesn't match what I agreed to at checkout.
+FB-00953,2025-09-09,support_ticket,enterprise,enterprise,en,billing,critical,2,False,52.6,My subscription renewed without warning and I can't get a refund.
+FB-00274,2025-07-30,support_ticket,agency,pro,en,performance,critical,1,False,52.5,Performance degraded sharply after the last update. We manage several client accounts and this is blocking delivery.
+FB-00070,2025-06-24,email,startup,enterprise,en,usability,high,1,False,95.9,"The mobile experience is nearly unusable for our field staff. As enterprise customers, we expect priority handling."
+FB-00721,2025-12-04,contact_form,enterprise,pro,en,usability,high,1,False,95.3,Important actions are buried under too many nested menus.
+FB-00881,2025-07-24,support_ticket,agency,pro,en,support,high,2,False,94.9,We've waited over a week with no response from support.
+FB-00310,2025-02-28,email,startup,enterprise,en,account_access,high,1,False,93.4,"Our entire team was locked out for two days with no explanation. As enterprise customers, we expect priority handling."
+FB-00321,2025-11-21,support_ticket,enterprise,basic,es,support,high,2,False,93.4,Cerraron nuestro ticket sin resolver el problema de verdad.
+FB-00260,2025-04-04,support_ticket,agency,free,en,account_access,high,1,False,91.4,I can't reset my password and support hasn't helped in days.
+FB-00755,2025-04-28,support_ticket,small_business,basic,es,integrations,high,1,False,90.9,Nuestra integración con el CRM se rompió tras el último release y los datos están desincronizados. Nuestro equipo pequeño depende de que esto funcione bien.
+FB-00098,2025-11-08,email,agency,free,en,account_access,high,1,False,90.4,I can't reset my password and support hasn't helped in days. We manage several client accounts and this is blocking delivery.
+FB-00074,2025-06-12,chat,agency,enterprise,en,features,high,1,False,90.3,"Competitors shipped these features months ago. As enterprise customers, we expect priority handling."
+FB-00909,2025-12-20,chat,enterprise,free,en,usability,high,2,False,89.1,Important actions are buried under too many nested menus. We're on the free plan but still expect basic reliability.
+FB-00344,2025-10-24,support_ticket,startup,pro,en,integrations,high,1,False,88.7,The API returns inconsistent errors with no useful documentation. We're scaling fast and need this resolved quickly.
+FB-00063,2025-11-06,email,enterprise,pro,en,performance,high,1,False,86.0,Performance degraded sharply after the last update. This affects multiple departments across our organization.
+FB-00769,2025-08-15,contact_form,agency,basic,en,pricing,high,1,False,85.8,Essential features are locked behind the most expensive tier. We manage several client accounts and this is blocking delivery.
+FB-00851,2025-02-27,support_ticket,agency,enterprise,en,pricing,high,1,False,85.7,We're paying enterprise rates but getting basic-level service.
+FB-00151,2025-01-27,contact_form,startup,basic,es,billing,high,2,False,84.6,Nos han cobrado de más en el plan enterprise durante tres meses. Estamos creciendo rápido y necesitamos una solución pronto.
+FB-00787,2025-01-06,support_ticket,small_business,basic,es,billing,high,2,False,83.7,Nos han cobrado de más en el plan enterprise durante tres meses.
+FB-00970,2025-03-07,chat,freelancer,enterprise,en,exports,high,2,False,83.0,"We can't export historical data beyond 30 days on our plan. As enterprise customers, we expect priority handling."
+FB-00779,2025-03-17,support_ticket,small_business,pro,es,usability,high,2,False,82.7,Seguimos pulsando botones incorrectos porque las etiquetas no son claras. Nuestro equipo pequeño depende de que esto funcione bien.
+FB-00478,2025-11-06,email,freelancer,free,es,support,high,2,False,81.8,"Cada interacción con soporte parece empezar desde cero. Como freelancer, esto afecta mucho mi flujo de trabajo."
+FB-00545,2025-08-15,support_ticket,startup,enterprise,en,performance,high,1,False,80.1,Our team loses hours every week waiting for pages to load. We're scaling fast and need this resolved quickly.
+FB-00265,2025-02-21,chat,small_business,free,es,onboarding,high,1,False,76.0,El equipo abandonó la configuración tras varios callejones sin salida. Nuestro equipo pequeño depende de que esto funcione bien.
+FB-00161,2025-04-09,email,enterprise,pro,en,usability,high,2,False,75.7,The interface is confusing and our team struggles daily. This affects multiple departments across our organization.
+FB-00778,2025-02-23,review,startup,pro,en,pricing,high,2,False,75.2,We're paying enterprise rates but getting basic-level service.
+FB-00436,2025-02-25,support_ticket,freelancer,free,en,account_access,high,1,False,74.4,Unauthorized access to our workspace was not detected promptly. We're on the free plan but still expect basic reliability.
+FB-00203,2025-02-20,contact_form,freelancer,free,en,onboarding,high,2,False,73.5,"Our team gave up on setup after hitting multiple dead ends. As a freelancer, this matters a lot to my workflow."
+FB-00495,2025-08-26,support_ticket,agency,basic,es,performance,high,1,False,73.3,Hemos tenido timeouts severos durante operaciones críticas. Gestionamos varias cuentas de clientes y esto nos está frenando.
+FB-00740,2025-10-31,contact_form,enterprise,enterprise,en,integrations,high,2,False,71.3,The API returns inconsistent errors with no useful documentation. This affects multiple departments across our organization.
+FB-00383,2025-04-07,chat,freelancer,pro,es,account_access,high,1,False,70.5,Un acceso no autorizado a nuestro workspace no fue detectado a tiempo.
+FB-00715,2025-12-21,support_ticket,enterprise,free,es,integrations,high,2,False,70.4,Las entregas por webhook fallan al azar y perdemos eventos críticos.
+FB-00725,2025-01-27,review,enterprise,basic,en,performance,high,2,False,69.1,The app crashes constantly when loading large reports.
+FB-00919,2025-02-21,support_ticket,freelancer,enterprise,en,features,high,2,False,69.1,"We can't use half the features because they're buggy. As a freelancer, this matters a lot to my workflow."
+FB-00827,2025-08-10,support_ticket,small_business,enterprise,en,account_access,high,2,False,68.8,Unauthorized access to our workspace was not detected promptly. Our small team depends on this working reliably.
+FB-00808,2025-01-19,support_ticket,agency,free,en,usability,high,2,False,67.3,Important actions are buried under too many nested menus. We're on the free plan but still expect basic reliability.
+FB-00380,2025-10-08,support_ticket,enterprise,pro,es,features,high,2,False,66.5,Los competidores lanzaron estas funciones hace meses. Esto impacta a varios departamentos de nuestra organización.
+FB-00457,2025-10-08,email,agency,basic,es,account_access,high,1,False,66.5,Las cuentas de admin perdieron permisos tras la última actualización de seguridad.
+FB-00659,2025-05-07,email,small_business,pro,en,integrations,high,1,False,66.1,Our CRM integration broke after the latest release and data is out of sync. We upgraded to Pro specifically for better service.
+FB-00400,2025-10-19,support_ticket,small_business,basic,en,integrations,high,2,False,65.5,The API returns inconsistent errors with no useful documentation.
+FB-00166,2025-02-09,email,agency,pro,en,performance,high,1,False,65.2,The app crashes constantly when loading large reports. We manage several client accounts and this is blocking delivery.
+FB-00554,2025-08-01,email,startup,basic,es,onboarding,high,1,False,63.4,El soporte de incorporación prometido nunca llegó. Estamos creciendo rápido y necesitamos una solución pronto.
+FB-00516,2025-09-13,email,freelancer,enterprise,en,integrations,high,1,False,63.3,The API returns inconsistent errors with no useful documentation.
+FB-00447,2025-09-14,support_ticket,freelancer,enterprise,es,performance,high,2,False,61.7,"Hemos tenido timeouts severos durante operaciones críticas. Como freelancer, esto afecta mucho mi flujo de trabajo."
+FB-00427,2025-09-24,support_ticket,enterprise,free,en,onboarding,high,1,False,61.3,We were left alone after signup with no clear next steps.
+FB-00210,2025-03-02,contact_form,small_business,pro,en,account_access,high,1,False,60.8,Admin accounts lost permissions after the last security update. Our small team depends on this working reliably.
+FB-00911,2025-09-02,nps_survey,enterprise,pro,es,onboarding,high,2,False,60.7,La documentación de onboarding está desactualizada y contradice la interfaz.
+FB-00135,2025-06-03,support_ticket,freelancer,pro,en,features,high,2,False,60.6,The reporting module lacks basic filters we need daily.
+FB-00270,2025-10-21,support_ticket,agency,enterprise,en,integrations,high,2,False,60.2,"The API returns inconsistent errors with no useful documentation. As enterprise customers, we expect priority handling."
+FB-00303,2025-03-09,chat,small_business,free,en,exports,high,1,False,58.8,Exported files are missing critical columns we need for compliance.
+FB-00793,2025-07-28,chat,freelancer,pro,en,usability,high,1,False,58.3,The interface is confusing and our team struggles daily.
+FB-00281,2025-05-18,email,small_business,basic,en,support,high,2,False,58.1,Support keeps redirecting us without offering real solutions.
+FB-00340,2025-10-30,support_ticket,agency,enterprise,es,integrations,high,1,False,58.0,La API devuelve errores inconsistentes sin documentación útil.
+FB-00579,2025-09-11,support_ticket,enterprise,free,es,usability,high,2,False,57.0,La interfaz es confusa y nuestro equipo lucha con ella a diario. Esto impacta a varios departamentos de nuestra organización.
+FB-00207,2025-11-24,chat,small_business,basic,en,support,high,2,False,56.4,Support keeps redirecting us without offering real solutions. Our small team depends on this working reliably.
+FB-00212,2025-10-15,support_ticket,small_business,enterprise,en,billing,high,1,False,56.0,We've been overcharged on our enterprise plan for three months. Our small team depends on this working reliably.
+FB-00916,2025-09-08,support_ticket,small_business,free,es,integrations,high,1,False,54.7,Nuestra integración con el CRM se rompió tras el último release y los datos están desincronizados. Nuestro equipo pequeño depende de que esto funcione bien.
+FB-00618,2025-11-22,email,agency,enterprise,en,onboarding,high,2,False,54.0,Promised onboarding support never materialized.
+FB-00801,2025-02-25,chat,enterprise,enterprise,es,performance,high,1,False,52.6,La aplicación se cae constantemente al cargar reportes grandes. Esto impacta a varios departamentos de nuestra organización.
+FB-00971,2025-09-08,contact_form,freelancer,pro,en,account_access,high,2,False,50.6,"Our entire team was locked out for two days with no explanation. As a freelancer, this matters a lot to my workflow."
+FB-00607,2025-05-27,chat,enterprise,pro,es,billing,high,1,False,50.0,Mi suscripción se renovó sin aviso y no puedo obtener un reembolso. Esto impacta a varios departamentos de nuestra organización.
+FB-00653,2025-11-16,support_ticket,small_business,enterprise,es,billing,high,2,False,47.9,Mi suscripción se renovó sin aviso y no puedo obtener un reembolso. Nuestro equipo pequeño depende de que esto funcione bien.
+FB-00806,2025-01-06,email,agency,enterprise,en,usability,high,2,False,47.3,Important actions are buried under too many nested menus. We manage several client accounts and this is blocking delivery.
+FB-00634,2025-11-22,nps_survey,startup,pro,en,support,high,1,False,47.2,The team closed our ticket without actually fixing the problem.
+FB-00188,2025-12-17,review,freelancer,free,en,account_access,high,1,False,46.6,I can't reset my password and support hasn't helped in days.
+FB-00610,2025-08-03,support_ticket,freelancer,pro,en,usability,high,2,False,46.6,We keep clicking the wrong buttons because labels are unclear.
+FB-00954,2025-02-12,support_ticket,small_business,basic,en,usability,high,1,False,46.6,"We keep clicking the wrong buttons because labels are unclear. Given our basic plan, we hoped for smoother support."
+FB-00149,2025-06-17,chat,agency,basic,en,usability,high,2,False,45.5,The mobile experience is nearly unusable for our field staff. We manage several client accounts and this is blocking delivery.
+FB-00428,2025-04-08,chat,agency,free,es,billing,high,2,False,44.6,El total de la factura no coincide con lo acordado al pagar. Gestionamos varias cuentas de clientes y esto nos está frenando.
+FB-00560,2025-02-27,chat,small_business,basic,en,performance,high,2,False,42.1,The app crashes constantly when loading large reports.
+FB-00644,2025-08-31,support_ticket,small_business,free,en,features,high,2,False,41.0,The reporting module lacks basic filters we need daily.
+FB-00873,2025-10-27,email,startup,pro,es,integrations,high,1,False,40.7,No podemos conectar nuestras herramientas internas porque OAuth falla constantemente. Estamos creciendo rápido y necesitamos una solución pronto.
+FB-00838,2025-10-23,email,freelancer,basic,es,onboarding,high,1,False,40.3,El soporte de incorporación prometido nunca llegó.
+FB-00082,2025-06-01,email,startup,enterprise,en,pricing,high,1,False,40.2,We're paying enterprise rates but getting basic-level service.
+FB-00449,2025-09-24,contact_form,freelancer,free,en,performance,high,2,False,39.1,"Performance degraded sharply after the last update. As a freelancer, this matters a lot to my workflow."
+FB-00594,2025-11-29,support_ticket,small_business,enterprise,en,support,high,2,False,37.7,Every support interaction feels like starting from scratch.
+FB-00748,2025-06-18,email,agency,enterprise,en,billing,high,1,False,37.4,The invoice total doesn't match what I agreed to at checkout. We manage several client accounts and this is blocking delivery.
+FB-00849,2025-01-24,chat,enterprise,free,en,exports,high,2,False,36.0,Exported files are missing critical columns we need for compliance.
+FB-00986,2025-10-13,chat,enterprise,enterprise,es,account_access,high,1,False,34.9,Todo el equipo quedó bloqueado dos días sin explicación. Esto impacta a varios departamentos de nuestra organización.
+FB-00570,2025-05-15,email,enterprise,basic,en,support,high,2,False,34.7,Every support interaction feels like starting from scratch. This affects multiple departments across our organization.
+FB-00865,2025-11-16,contact_form,freelancer,enterprise,en,pricing,high,1,False,32.7,"Essential features are locked behind the most expensive tier. As a freelancer, this matters a lot to my workflow."
+FB-00768,2025-05-12,support_ticket,startup,basic,en,support,high,2,False,31.7,We've waited over a week with no response from support.
+FB-00601,2025-12-08,chat,startup,free,en,usability,high,1,False,31.3,We keep clicking the wrong buttons because labels are unclear. We're scaling fast and need this resolved quickly.
+FB-00359,2025-11-11,review,freelancer,basic,en,integrations,high,2,False,30.3,The API returns inconsistent errors with no useful documentation.
+FB-00957,2025-03-02,email,agency,pro,es,billing,high,1,False,30.3,El total de la factura no coincide con lo acordado al pagar.
+FB-00012,2025-07-05,email,freelancer,free,es,account_access,high,1,False,29.7,"No puedo restablecer mi contraseña y el soporte no ha ayudado en días. Como freelancer, esto afecta mucho mi flujo de trabajo."
+FB-00356,2025-04-20,support_ticket,small_business,free,en,exports,high,2,False,27.7,CSV exports corrupt special characters in our international data.
+FB-00795,2025-03-09,email,startup,enterprise,en,account_access,high,2,False,26.9,I can't reset my password and support hasn't helped in days. We're scaling fast and need this resolved quickly.
+FB-00194,2025-02-15,chat,freelancer,free,es,integrations,high,2,False,24.9,Las entregas por webhook fallan al azar y perdemos eventos críticos.
