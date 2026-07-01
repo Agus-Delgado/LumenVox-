@@ -28,7 +28,7 @@ SaaS companies collect thousands of open-text feedback items every month through
 - **Language split:** en 603 (60.3%), es 397 (39.7%)
 - **Channels:** contact_form, chat, email, support_ticket, nps_survey, review
 - **Customer segments:** freelancer, agency, small_business, enterprise, startup
-- **Product areas:** performance, support, usability, features, account_access, integrations, exports, onboarding, billing, pricing
+- **Product areas:** performance, support, usability, features, account_access, integrations, onboarding, exports, billing, pricing
 
 ## Key Feedback Patterns
 

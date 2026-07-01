@@ -4,6 +4,8 @@
 
 **Status: V1 complete** — full runtime pipeline, modeling, business reporting, and portfolio documentation are finished. See [PROJECT_STATUS.md](PROJECT_STATUS.md) for details.
 
+> License: Portfolio Source License — public review allowed, commercial reuse prohibited.
+
 ---
 
 ## Key Results
@@ -365,6 +367,18 @@ The executive summary includes 5–7 action-oriented recommendations grounded in
 |----------|-------------|
 | `reports/executive_summary.md` | Consolidated leadership brief |
 | `reports/lumenvox_project_summary.md` | Portfolio-oriented project summary |
+
+## License and Usage
+
+LumenVox is publicly available for portfolio review, educational inspection, and professional evaluation.
+
+The project is not released as an open-source commercial template. Unauthorized commercial use, redistribution, rebranding, or publication of derivative products is not permitted without prior written permission.
+
+See:
+
+- [LICENSE](LICENSE)
+- [NOTICE.md](NOTICE.md)
+- [COPYRIGHT.md](COPYRIGHT.md)
 
 ---
 
